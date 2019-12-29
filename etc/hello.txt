@@ -1,3 +1,0 @@
-branch:meng
-folder:etc
-name:hello
